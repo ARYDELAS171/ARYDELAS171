@@ -1,16 +1,21 @@
-## Hi there 👋
+meu nome aryel cristian de souza idalino
+estou estudando no ivo liboni
 
-<!--
-**ARYDELAS171/ARYDELAS171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou desenvolvendo na linguagem javascript
+utilizo esse espaço para minha organizaçao 
+é compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### VOCE ENTRA EM CONTATO COMIGO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001076545518sp@al.educacao.sp.gov.br
+@aryelcristian178
+
+![](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif)
+
+
+
+
+
+
+
+     
